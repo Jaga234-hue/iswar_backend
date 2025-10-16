@@ -1,0 +1,12 @@
+2025-10-15 18:29:55 - Input: {"user_name":"ksnd"}
+2025-10-15 18:29:55 - User enrolled: ksnd (ID: 2)
+2025-10-15 18:30:40 - Input: user_name=jaga
+2025-10-15 18:30:57 - Input: user_name=jagabandhu+prusty
+2025-10-15 18:31:00 - Input: user_name=siehje
+2025-10-15 18:31:04 - Input: user_name=djdhdike
+2025-10-15 18:32:02 - Input: {"user_name":"hi"}
+2025-10-15 18:32:02 - User enrolled: hi (ID: 3)
+2025-10-15 18:33:06 - Input: {"user_name":"jaga"}
+2025-10-15 18:33:18 - Input: {"user_name":"jagabandhu Prusty"}
+2025-10-15 18:33:27 - Input: {"user_name":"jagabandhu"}
+2025-10-15 18:33:27 - User enrolled: jagabandhu (ID: 4)
